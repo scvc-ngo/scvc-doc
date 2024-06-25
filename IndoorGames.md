@@ -22,9 +22,9 @@ For more information of our games, please visit: <https://scvc.ngo/indoor-games>
 
 ## Game Schedule
 
-Our BB and B+ level games happen every Saturday 12 p.m. to 3 p.m. at The Ridge Activity Center, 3827 Maltby Rd, Bothell, WA 98021. Signups start every Monday 8 p.m. to Friday 8 p.m.
+Our BB and B+ level games usually happen every Saturday 12 p.m. to 3 p.m. at The Ridge Activity Center, 3827 Maltby Rd, Bothell, WA 98021. Signups start every Monday 8 p.m. to Friday 8 p.m.
 
-Our B and C level games, and the practice session happen every Sunday 10:45 a.m. to 12:45 p.m. at Tyee Community Gym, 13630 SE Allen Rd., Bellevue, WA 98006. Signups start every Wednesday 8 p.m. to Friday 8 p.m.
+Our B and C level games, and the practice session usually happen every Sunday 10:45 a.m. to 12:45 p.m. at Tyee Community Gym, 13630 SE Allen Rd., Bellevue, WA 98006. Signups start every Wednesday 8 p.m. to Friday 8 p.m.
 
 Game schedule might change due to court availability. Detailed schedule can be viewed at: <https://scvc.ngo/game-schedule>. Games on our [signup website](https://joingame.azurewebsites.net/) are generally released prior to signup start time.
 
