@@ -10,9 +10,9 @@ Currently we provide BB, B+, B and C level games. BB and B+ level are for compet
 
 To get a permit of your skill level, please sign up for one of our practice sessions, where we will estimate your skill level. If your estimated skill level is C or above, we will invite you to one of our corresponding level games for free, and grant you a permit based on your performance in the game. Otherwise, you can attend our practice sessions to gain basic skills.
 
-To sign up for our practice session, please login to our signup website with a Google account.
+To sign up for our practice session, please login to our [signup website](https://joingame.azurewebsites.net/) with a Google account.
 
-If you’re confident about your volleyball skill, instead of signing up for a practice session, you could also email us your experience in playing volleyball so that we could try to arrange you to join one of our games for free. To help us better understand your volleyball skill, you could include your experience in detail, e.g. how long you’ve been playing volleyball for, links/videos of volleyball leagues/open gyms you’ve been joining, positions you usually play, etc.
+If you’re confident about your volleyball skill, instead of signing up for a practice session, you could also [email us](contact@scvc.ngo) your experience in playing volleyball so that we could try to arrange you to join one of our games for free. To help us better understand your volleyball skill, you could include your experience in detail, e.g. how long you’ve been playing volleyball for, links/videos of volleyball leagues/open gyms you’ve been joining, positions you usually play, etc.
 
 Our signup website is: <https://joingame.azurewebsites.net/>  
 Our official website is: <https://scvc.ngo/>  
