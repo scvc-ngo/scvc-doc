@@ -26,7 +26,7 @@ Our BB and B+ level games happen every Saturday 12 p.m. to 3 p.m. at The Ridge A
 
 Our B and C level games, and the practice session happen every Sunday 10:45 a.m. to 12:45 p.m. at Tyee Community Gym, 13630 SE Allen Rd., Bellevue, WA 98006. Signups start every Wednesday 8 p.m. to Friday 8 p.m.
 
-Game schedule might change due to court availability. Detailed schedule can be viewed at: <https://scvc.ngo/schedule>. Games on our [signup website](https://joingame.azurewebsites.net/) are generally released prior to signup start time.
+Game schedule might change due to court availability. Detailed schedule can be viewed at: <https://scvc.ngo/game-schedule>. Games on our [signup website](https://joingame.azurewebsites.net/) are generally released prior to signup start time.
 
 
 ## Skill Requirements
