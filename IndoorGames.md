@@ -35,8 +35,8 @@ To meet the requirement of each level, you must meet these criterias:
 - Can meet all the requirements of the previous level.
 - Can perform each item of the corresponding level 10 times successfully in a row.
 - In the game of corresponding level with Coed net height,
-  - Can meet the requirements of the corresponding level steadily when playing at the position you are most familiar with.
-  - Can meet the requirements of the previous level steadily when not playing at the position you are most familiar with.
+    - Can meet the requirements of the corresponding level steadily when playing at the position you are most familiar with.
+    - Can meet the requirements of the previous level steadily when not playing at the position you are most familiar with.
 
 ### C Level
 
