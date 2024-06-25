@@ -12,7 +12,7 @@ To get a permit of your skill level, please sign up for one of our practice sess
 
 To sign up for our practice session, please login to our [signup website](https://joingame.azurewebsites.net/) with a Google account.
 
-If you’re confident about your volleyball skill, instead of signing up for a practice session, you could also [email us](contact@scvc.ngo) your experience in playing volleyball so that we could try to arrange you to join one of our games for free. To help us better understand your volleyball skill, you could include your experience in detail, e.g. how long you’ve been playing volleyball for, links/videos of volleyball leagues/open gyms you’ve been joining, positions you usually play, etc.
+If you’re confident about your volleyball skill, instead of signing up for a practice session, you could also [email us](mailto:contact@scvc.ngo) your experience in playing volleyball so that we could try to arrange you to join one of our games for free. To help us better understand your volleyball skill, you could include your experience in detail, e.g. how long you’ve been playing volleyball for, links/videos of volleyball leagues/open gyms you’ve been joining, positions you usually play, etc.
 
 Our signup website is: <https://joingame.azurewebsites.net/>  
 Our official website is: <https://scvc.ngo/>  
