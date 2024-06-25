@@ -2,7 +2,7 @@
 
 Want to play volleyball with players at your level?  
 Want to play volleyball for the whole time you signed up?  
-Join our SCVC (Seattle Chinese Volleyball Club) indoor volleyball games!
+Join our SCVC (Seattle Chinese Volleyball Club) indoor volleyball games!  
 
 SCVC is a non-profit organization, organizing multiple levels of indoor volleyball games. Games on each level require a corresponding permit to sign up to ensure players meet the corresponding skill requirement. All games will have a 12 person capacity so that everyone gets to play the whole time.
 
