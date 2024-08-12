@@ -6,7 +6,7 @@ Join our SCVC (Seattle Chinese Volleyball Club) indoor volleyball games!
 
 SCVC is a non-profit organization, organizing multiple levels of indoor volleyball games. Games on each level require a corresponding permit to sign up to ensure players meet the corresponding skill requirement. All games will have a 12 person capacity so that everyone gets to play the whole time.
 
-Currently we provide BB, B+, B, C level games and practice sessions. BB and B+ level are for competitive game play while BB is more intensive. B level is for recreational game play. C level is for new players with basic skills. Practice sessions are for players to improve basic and advanced skills.
+Currently we provide BB, B+, B level games and practice sessions. BB and B+ level are for competitive game play while BB is more intensive. B level is for recreational game play. C level is for new players with basic skills. Practice sessions are for players to improve basic and advanced skills.
 
 To get a permit of your skill level, please sign up for one of our practice sessions, where we will estimate your skill level. If your estimated skill level is B or above, we will invite you to one of our corresponding level games for free, and grant you a permit based on your performance in the game. Otherwise, you can attend our practice sessions to gain basic skills. To sign up for our practice session, please login to our [signup website](https://joingame.azurewebsites.net/) with a Google account.
 
