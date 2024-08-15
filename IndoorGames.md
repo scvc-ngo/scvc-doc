@@ -14,6 +14,7 @@ If you’re confident about your volleyball skill, instead of signing up for a p
 
 Our signup website is: <https://joingame.azurewebsites.net/>  
 Our official website is: <https://scvc.ngo/>  
+Our official Facebook group is: <https://www.facebook.com/groups/scvc.ngo>  
 To contact us, please email us at: <contact@scvc.ngo>  
 For more information of our games, please visit: <https://scvc.ngo/indoor-games>  
 
@@ -25,6 +26,8 @@ Our BB, B+ and B level games usually happen every Saturday 12 p.m. to 3 p.m. at 
 Our practice sessions usually happen every Sunday 10:45 a.m. to 12:45 p.m. at [Tyee Community Gym, 13630 SE Allen Rd., Bellevue, WA 98006](https://maps.app.goo.gl/n8wsss9psEm7j2SY9). Signups start every Wednesday 8 p.m. to Friday 8 p.m.
 
 Game schedule might change due to court availability. Detailed schedule can be viewed at: <https://scvc.ngo/game-schedule>. Games on our [signup website](https://joingame.azurewebsites.net/) are generally released prior to signup start time.
+
+We regularly post updates of our games in our Facebook group. To stay tuned, join our Facebook group at <https://www.facebook.com/groups/scvc.ngo>.
 
 
 ## Skill Requirement
