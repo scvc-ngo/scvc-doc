@@ -34,7 +34,7 @@ We regularly post updates of our games in our Facebook group. To stay tuned, joi
 
 To meet the requirement of each level, you must meet these criterias:
 - Can meet all the requirements of the previous level.
-- Consistency in each item of the corresponding level.
+- Can consistently perform each item of the corresponding level.
 - In the game of corresponding level with Coed net height,
     - Can meet the requirements of the corresponding level steadily when playing at the position you are most familiar with.
     - Can meet the requirements of the previous level steadily when not playing at the position you are most familiar with.
@@ -46,6 +46,7 @@ To meet the requirement of each level, you must meet these criterias:
 - Serving: can serve the ball by any means.
 - Passing: can pass a tossed ball to the setter. The ball may be tossed a few steps away from the player.
 - Hitting: can hit a tossed ball at position 4 to the other side of the court.
+- Setting: can perform basic bump setting or upper hand setting in middle-set rotation.
 
 ### B Level
 
@@ -65,8 +66,7 @@ To meet the requirement of each level, you must meet these criterias:
 - Serving: can serve the ball with overhand.
 - Receiving:
     - Can pass a hard serving (e.g. float, spin, jump serve) into the court.
-- Defending:
-    - Can adjust the defense position according to the court situation when the opponent is attacking.
+- Defending: Can adjust the defense position according to the court situation when the opponent is attacking.
 - Can meet the requirement of either attacking or setting:
     - Attacking:
         - Can attack a good set with power.
