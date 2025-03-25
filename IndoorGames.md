@@ -32,7 +32,7 @@ We regularly post updates of our games in our Facebook group. To stay tuned, joi
 
 ## Skill Requirement
 
-To meet the requirement of each level, you must meet these criterias:
+To meet the minimal requirement of each level, you must meet these criterias:
 - Can meet all the requirements of the previous level.
 - Can consistently perform each item of the corresponding level.
 - In the game of corresponding level with Coed net height,
