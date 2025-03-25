@@ -64,8 +64,7 @@ To meet the requirement of each level, you must meet these criterias:
 
 - Rotation: can run 4-2 and 5-1 rotation.
 - Serving: can serve the ball with overhand.
-- Receiving:
-    - Can pass a hard serving (e.g. float, spin, jump serve) into the court.
+- Receiving: Can pass a hard serving (e.g. float, spin, jump serve) into the court.
 - Defending: Can adjust the defense position according to the court situation when the opponent is attacking.
 - Can meet the requirement of either attacking or setting:
     - Attacking:
