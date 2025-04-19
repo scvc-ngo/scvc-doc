@@ -75,7 +75,6 @@ To meet the minimal requirement of each level, you must meet these criterias:
         - Can set a good passing to position 2, 3 and 4.
         - Can set an unideal passing so that teammates can hit the ball easily.
         - Can call help when the passing is far away so that teammates can help setting.
-- Good volleyball basics and relatively standardized forms.
 - Can keep the performance for 3 hours.
 
 ### BB Level
