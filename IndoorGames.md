@@ -32,9 +32,9 @@ We regularly post updates of our games in our Facebook group. To stay tuned, joi
 
 ## Skill Requirement
 
-To meet the requirement of each level, you must meet these criterias:
+To meet the minimal requirement of each level, you must meet these criterias:
 - Can meet all the requirements of the previous level.
-- Can perform each item of the corresponding level 10 times successfully in a row.
+- Can consistently perform each item of the corresponding level.
 - In the game of corresponding level with Coed net height,
     - Can meet the requirements of the corresponding level steadily when playing at the position you are most familiar with.
     - Can meet the requirements of the previous level steadily when not playing at the position you are most familiar with.
@@ -42,26 +42,30 @@ To meet the requirement of each level, you must meet these criterias:
 ### C Level
 
 - Know the position of other players on the court to avoid running into others and get injured.
+- Rotation: can run middle-set rotation.
 - Serving: can serve the ball by any means.
 - Passing: can pass a tossed ball to the setter. The ball may be tossed a few steps away from the player.
 - Hitting: can hit a tossed ball at position 4 to the other side of the court.
+- Setting: can perform basic bump setting or upper hand setting in middle-set rotation.
 
 ### B Level
 
-- Rotation: can run middle-set rotation.
-- Defending: can pass a non-attack ball to the setter.
-- Attacking: can organize attacks using the 3 hit chances.
+- Rotation: Proficiency with at least 1 position in 4-2 and 5-1 rotations.
+- Receiving:
+    - Can accurately pass an easy serving to the setter.
+    - Huge plus: Can pass a hard serving (e.g. float, spin, jump serve) into the court.
+- Defending:
+    - Can accurately pass a free ball to the setter.
+    - Huge plus: Can adjust the defense position according to the court situation when the opponent is attacking.
+- Attacking: Can hit the ball to the opponent’s court.
+
 
 ### B+ Level
 
 - Rotation: can run 4-2 and 5-1 rotation.
 - Serving: can serve the ball with overhand.
-- Receiving:
-    - Can accurately pass an easy serving to the setter.
-    - Can pass a hard serving (e.g. float, spin, jump serve) into the court.
-- Defending:
-    - Can accurately pass a free ball to the setter.
-    - Can adjust the defense position according to the court situation when the opponent is attacking.
+- Receiving: Can pass a hard serving (e.g. float, spin, jump serve) into the court.
+- Defending: Can adjust the defense position according to the court situation when the opponent is attacking.
 - Can meet the requirement of either attacking or setting:
     - Attacking:
         - Can attack a good set with power.
